@@ -94,7 +94,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjiembadi&layout=compact&theme=tokyonight" />
-</p>src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjiembadi&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🏆 Achievements
