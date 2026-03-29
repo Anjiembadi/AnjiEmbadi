@@ -6,7 +6,7 @@
 ## 🌟 About Me
 - 🎓 B.Tech Student passionate about **AI & Data Science**
 - 🤖 Building **Machine Learning & Generative AI Projects**
-- 📊 Skilled in **Python,EDA, SQL, Power BI, Machine Learning, OpenCV, Streamlit**
+- 📊 Skilled in **Python, EDA, SQL, Power BI, Machine Learning, OpenCV, Streamlit**
 - 🔥 Focused on **real-world problem solving using data**
 - 📍 Based in India
 - 💼 Open to **Internships & AI/ML Roles**
@@ -60,6 +60,9 @@
 - Used advanced SQL (**joins, window functions, aggregations**)  
 - Generated insights on sustainability trends
 
+🔗 GitHub Repo: [https://github.com/Anjiembadi/Energy-Consumption-Analysis-Using-SQL](https://github.com/Anjiembadi/Energy-Consumption-Analysis-Using-SQL)
+
+
 
 ---
 
@@ -67,6 +70,8 @@
 - Built an app to summarize YouTube videos using AI  
 - Integrated **LLM + Streamlit**  
 - Automated content extraction & summarization
+
+🔗 GitHub Repo: [https://github.com/Anjiembadi/youtube-summarizer-genai](https://github.com/Anjiembadi/YouTube-Summarizer-GenAI)
 
 [![🚀 Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://youtube-summarizer-genai-anji-embadi.streamlit.app/)
 
@@ -76,6 +81,8 @@
 - Developed image processing app using OpenCV  
 - Features: resize, filters, transformations  
 - Deployed using Streamlit
+
+🔗 GitHub Repo: [[https://github.com/Anjiembadi/youtube-summarizer-genai](https://github.com/Anjiembadi/Photo-Editor-OpenCV-Streamlit)
 
 [![🚀 Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://anji-opencv-photo-editor.streamlit.app/) 
  
