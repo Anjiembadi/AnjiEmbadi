@@ -47,7 +47,7 @@
 
 ## 🚀 Projects
 
-### ✈️ Aircraft Customer Satisfaction Prediction
+### ✈️ Aircraft Customer Satisfaction Prediction (MAchine Learning)
 - Built ML models to predict passenger satisfaction  
 - Performed **EDA, feature engineering & model tuning**  
 - Achieved high accuracy using **Random Forest**  
@@ -58,14 +58,16 @@
 ### 📊 Energy Consumption Analysis (SQL)
 - Analyzed global energy usage & CO₂ emissions  
 - Used advanced SQL (**joins, window functions, aggregations**)  
-- Generated insights on sustainability trends  
+- Generated insights on sustainability trends
+
 
 ---
 
 ### 🎥 YouTube AI Summarizer (GenAI Project)
 - Built an app to summarize YouTube videos using AI  
 - Integrated **LLM + Streamlit**  
-- Automated content extraction & summarization  
+- Automated content extraction & summarization
+🔗 Live Demo: https://youtube-summarizer-genai-anji-embadi.streamlit.app/ 
 
 ---
 
@@ -73,6 +75,7 @@
 - Developed image processing app using OpenCV  
 - Features: resize, filters, transformations  
 - Deployed using Streamlit  
+🔗 Live Demo: https://anji-opencv-photo-editor.streamlit.app/ 
 
 ---
 
