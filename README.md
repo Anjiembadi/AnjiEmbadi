@@ -1,26 +1,26 @@
-<h1 align="center">Hi 👋, I'm Embadi Anji</h1>
-<h3 align="center">🚀 Aspiring AI/ML Engineer | Data Science & Generative AI Enthusiast</h3>
+<h1 align="center">Hi , I'm Embadi Anji</h1>
+<h3 align="center"> Aspiring AI/ML Engineer | Data Science & Generative AI Enthusiast</h3>
 
 ---
 
-## 🌟 About Me
-- 🎓 B.Tech Student passionate about **AI & Data Science**
-- 🤖 Building **Machine Learning & Generative AI Projects**
-- 📊 Skilled in **Python, EDA, SQL, Power BI, Machine Learning, OpenCV, Streamlit**
-- 🔥 Focused on **real-world problem solving using data**
-- 📍 Based in India
-- 💼 Open to **Internships & AI/ML Roles**
+##  About Me
+-  B.Tech Student passionate about **AI & Data Science**
+-  Building **Machine Learning & Generative AI Projects**
+-  Skilled in **Python, EDA, SQL, Power BI, Machine Learning, OpenCV, Streamlit**
+-  Focused on **real-world problem solving using data**
+-  Based in India
+-  Open to **Internships & AI/ML Roles**
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
-### 💻 Languages & Tools
+###  Languages & Tools
 <p>
 <img src="https://skillicons.dev/icons?i=python,sql,git,github,vscode" />
 </p>
 
-### 📊 Data Science & ML
+###  Data Science & ML
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
@@ -31,23 +31,23 @@
 - Matplotlib  
 - Seaborn  
 
-### 🤖 AI / GenAI
+###  AI / GenAI
 - Machine Learning  
 - Deep Learning (Basics)  
 - Generative AI  
 - Prompt Engineering  
 - MLflow  
 
-### 🌐 Deployment
+###  Deployment
 - Streamlit  
 - GitHub
 - HuggingFace 
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### ✈️ Aircraft Customer Satisfaction Prediction (MAchine Learning)
+###  Aircraft Customer Satisfaction Prediction (MAchine Learning)
 - Built ML models to predict passenger satisfaction  
 - Performed **EDA, feature engineering & model tuning**  
 - Achieved high accuracy using **Random Forest**  
@@ -55,7 +55,7 @@
 
 ---
 
-### 📊 Energy Consumption Analysis (SQL)
+###  Energy Consumption Analysis (SQL)
 - Analyzed global energy usage & CO₂ emissions  
 - Used advanced SQL (**joins, window functions, aggregations**)  
 - Generated insights on sustainability trends
@@ -65,30 +65,30 @@
 
 ---
 
-### 🎥 YouTube AI Summarizer (GenAI Project)
+###  YouTube AI Summarizer (GenAI Project)
 - Built an app to summarize YouTube videos using AI  
 - Integrated **LLM + Streamlit**  
 - Automated content extraction & summarization
 
 🔗 GitHub Repo: [https://github.com/Anjiembadi/youtube-summarizer-genai](https://github.com/Anjiembadi/YouTube-Summarizer-GenAI)
 
-[![🚀 Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://youtube-summarizer-genai-anji-embadi.streamlit.app/)
+[![ Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://youtube-summarizer-genai-anji-embadi.streamlit.app/)
 
 ---
 
-### 🖼️ OpenCV Photo Editor App
+###  OpenCV Photo Editor App
 - Developed image processing app using OpenCV  
 - Features: resize, filters, transformations  
 - Deployed using Streamlit
 
 🔗 GitHub Repo: [https://github.com/Anjiembadi/youtube-summarizer-genai](https://github.com/Anjiembadi/Photo-Editor-OpenCV-Streamlit)
 
-[![🚀 Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://anji-opencv-photo-editor.streamlit.app/) 
+[![ Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://anji-opencv-photo-editor.streamlit.app/) 
  
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 
 <p align="center">
@@ -97,14 +97,14 @@
 
 
 
-## 🏆 Achievements
-- 🚀 Built multiple end-to-end ML projects  
-- 📊 Strong understanding of **data analysis & modeling**  
-- 💡 Actively learning **GenAI & advanced ML concepts**  
+##  Achievements
+-  Built multiple end-to-end ML projects  
+-  Strong understanding of **data analysis & modeling**  
+-  Actively learning **GenAI & advanced ML concepts**  
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p>
 <a href="https://www.linkedin.com/in/embadi-anji-31122531a">
@@ -122,7 +122,7 @@
 
 ---
 
-## ⚡ Fun Fact
-💡 I believe in **learning by building real-world projects**
+##  Fun Fact
+ I believe in **learning by building real-world projects**
 
-🔥 *“Code. Learn. Build. Repeat.”*
+ *“Code. Learn. Build. Repeat.”*
