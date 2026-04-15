@@ -43,35 +43,6 @@ B.Tech graduate in Computer Science and Design from St. Martin's Engineering Col
 - GitHub
 - VS Code
 - Power BI
-
-###  Languages & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=python,sql,git,github,vscode" />
-</p>
-
-###  Data Science & ML
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-- Pandas  
-- NumPy  
-- Scikit-learn  
-- Matplotlib  
-- Seaborn  
-
-###  AI / GenAI
-- Machine Learning  
-- Deep Learning (Basics)  
-- Generative AI  
-- Prompt Engineering  
-- MLflow  
-
-###  Deployment
-- Streamlit  
-- GitHub
-- HuggingFace 
-
 ---
 
 ## Featured Projects
@@ -130,20 +101,12 @@ B.Tech graduate in Computer Science and Design from St. Martin's Engineering Col
 - Worked on **AWS Bedrock Knowledge Bases** for enterprise RAG
 - Strong foundation in **data analysis, preprocessing, model building, and deployment**
 
+---
 
 ##  GitHub Stats
-
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Anjiembadi&theme=tokyonight" />
-</p>
-
-
-
-##  Achievements
--  Built multiple end-to-end ML projects  
--  Strong understanding of **data analysis & modeling**  
--  Actively learning **GenAI & advanced ML concepts**  
+</p> 
 
 ---
 ## Connect With Me
